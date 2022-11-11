@@ -13,6 +13,10 @@
     @apply underline text-blue-800 hover:text-divpurple decoration-dashed;
   }
 
+  body {
+    @apply bg-[color:#050D21];
+  }
+
 }
 
 /* Injects Tailwind's component classes & any component classes registered by plugins. */
